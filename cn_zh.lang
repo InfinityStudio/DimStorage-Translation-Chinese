@@ -1,0 +1,23 @@
+#Translated by shxq
+#Powered by Trigonometry-F
+
+#Creative tabs
+itemGroup.dimStorage=维度存储 DimStorage
+#TileEntity
+tileentity.dimchest.accessDenied=拒绝访问 Access Denied !
+#Conatiner
+container.dimchest=维度箱子 Dimensional Chest
+#Gui
+gui.dimchest.change=改变 Change
+gui.dimchest.owner=所有者 Owner :
+gui.dimchest.frequency=频带 Frequency :
+gui.dimchest.locked=锁定 Locked
+gui.dimchest.yes=是 Yes
+gui.dimchest.no=否 No
+#Items
+item.dimcore.name=维度核 Dimensional Core
+item.soliddimcore.name=维度实心 Solid Dimensional Core
+item.dimwall.name=维度挡板 Dimensional Wall
+#Blocks
+tile.dimchest.name=维度箱子 Dimensional Chest
+
